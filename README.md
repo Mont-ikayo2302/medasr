@@ -14,7 +14,7 @@ MedASR is an automated speech recognition (ASR) model that takes spoken audio as
     the model.
 
 *   Visit the model on
-    [Hugging Face](https://huggingface.co/models?other=medasr) or
+    [Hugging Face](https://huggingface.co/google/medasr) or
     [Model Garden](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/medasr).
 
 ## Contributing
